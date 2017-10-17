@@ -9,7 +9,7 @@ Reveal's compiled EEO-1 data spreadsheet is open data, licensed under the Open D
 You are free to copy, distribute, transmit and adapt the spreadsheet, so long as you:
 
 - Credit Reveal as specified below.
-- Inform Reveal that you are using the data in your work by emailing Ziva Branstetter at zbranstetter@revealnews.org.
+- Inform Reveal that you are using the data in your work by emailing Sinduja Rangarajan at srangarajan@revealnews.org.
 
 If you alter or build upon our data, you may distribute the result only under the same licence. The [full legal code](https://opendatacommons.org/licenses/odbl/1.0/) explains your rights and responsibilities.
 
