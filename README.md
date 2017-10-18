@@ -1,7 +1,7 @@
 # Silicon Valley diversity data
 This database contains EEO-1 reports filed by Silicon Valley tech companies. It was compiled by Reveal from The Center for Investigative Reporting.
 
-Please [read our complete methodology](link TK TK) for details on this data.
+Please [read our complete methodology](https://www.revealnews.org/article/how-we-analyzed-silicon-valley-tech-companies-diversity-data) for details on this data.
 
 ### Copyright and license
 The EEO-1 database is licensed under the Open Database License (ODbL) by Reveal from The Center for Investigative Reporting.
