@@ -23,4 +23,9 @@ You must also make it clear to anyone who requests access to the data that it is
 
 |Column name|Format|Description|
 |---|---|---|
-|TK|TK|TK|
+|company|String|Company name|
+|year|Integer|For now, 2016 only|
+|race|String|Possible values: "American_Indian_Alaskan_Native", "Asian", "Black_or_African_American", "Latino", "Native_Hawaiian_or_Pacific_Islander", "Two_or_more_races", "White", "Overall_totals"|
+|gender|String|Possible values: "male", "female". Non-binary gender is not counted in EEO-1 reports.|
+|job_category|String|Possible values: "Administrative support", "Craft workers", "Executive/Senior officials & Mgrs", "First/Mid officials & Mgrs", "laborers and helpers", "operatives", "Professionals", "Sales workers", "Service workers", "Technicians", "Previous_totals", "Totals"|
+|count|String|Mostly integer values, but contains "na" for a no-data variable.|
