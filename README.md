@@ -1,4 +1,4 @@
-# Silicon Valley Diversity Data
+# Silicon Valley diversity data
 Download EEO-1 reports from Silicon Valley tech companies. Compiled by Reveal from The Center for Investigative Reporting.
 
 Please [read our complete methodology](link TK TK) for details on this data.
