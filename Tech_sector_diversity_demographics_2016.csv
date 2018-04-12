@@ -1,0 +1,45 @@
+job_category,race_ethnicity,gender,count,percentage
+All workers,White,Male,268883,41.25725193
+All workers,White,Female,105560,16.19706532
+All workers,Black or African American,Male,17508,2.686417389
+All workers,Black or African American,Female,11479,1.761331118
+All workers,Asian,Male,125347,19.23317115
+All workers,Asian,Female,58049,8.90700497
+All workers,Hispanic or Latino,Male,32201,4.940902807
+All workers,Hispanic or Latino,Female,15512,2.380152304
+All workers,All,Male,454813,69.78624354
+All workers,All,Female,196910,30.21375646
+All workers,Totals,Both,651723,100
+Executives,White,Male,7282,58.67848509
+Executives,White,Female,1818,14.64947623
+Executives,Black or African American,Male,120,0.966962127
+Executives,Black or African American,Female,53,0.42707494
+Executives,Asian,Male,2023,16.30136986
+Executives,Asian,Female,556,4.5
+Executives,Hispanic or Latino,Male,266,2.143432716
+Executives,Hispanic or Latino,Female,103,0.829975826
+Executives,All,Male,9824,79.16196616
+Executives,All,Female,2586,20.83803384
+Executives,Totals,Both,12410,100
+Managers,White,Male,48311,46.47925265
+Managers,White,Female,18935,18.21706545
+Managers,Black or African American,Male,1575,1.515282708
+Managers,Black or African American,Female,978,0.940918406
+Managers,Asian,Male,18563,17.85917011
+Managers,Asian,Female,8084,7.777489152
+Managers,Hispanic or Latino,Male,3741,3.599157214
+Managers,Hispanic or Latino,Female,1642,1.579742354
+Managers,All,Male,73526,70.73820725
+Managers,All,Female,30415,29.26179275
+Managers,Totals,Both,103941,100
+Professionals,White,Male,133311,38.66059207
+Professionals,White,Female,47505,13.77659328
+Professionals,Black or African American,Male,6301,1.827309004
+Professionals,Black or African American,Female,3756,1.089251328
+Professionals,Asian,Male,89365,25.91611953
+Professionals,Asian,Female,39902,11.57170035
+Professionals,Hispanic or Latino,Male,11820,3.427835649
+Professionals,Hispanic or Latino,Female,5533,1.604586688
+Professionals,All,Male,245461,71.18443032
+Professionals,All,Female,99363,28.81556968
+Professionals,Totals,Both,344824,100

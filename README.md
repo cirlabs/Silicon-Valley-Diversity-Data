@@ -1,26 +1,74 @@
 # Silicon Valley diversity data
-This database contains EEO-1 reports filed by Silicon Valley tech companies. It was compiled by Reveal from The Center for Investigative Reporting.
 
-Please [read our complete methodology](https://www.revealnews.org/article/how-we-analyzed-silicon-valley-tech-companies-diversity-data) for details on this data.
+**NEW April 2018:** The spreadsheet Tech_sector_diversity_demographics_2016.csv contains aggregated diversity data for 177 large Silicon Valley tech companies. We calculated averages for the largest race and gender groups across job categories. For information on the aggregated data, read our post [here.]()
+
+This repository also contains EEO-1 reports filed by Silicon Valley tech companies. Please [read our complete methodology](https://www.revealnews.org/article/how-we-analyzed-silicon-valley-tech-companies-diversity-data) for details on this data.
+
+The data was compiled by Reveal from The Center for Investigative Reporting.
 
 ### Copyright and license
-The EEO-1 database is licensed under the Open Database License (ODbL) by Reveal from The Center for Investigative Reporting.
+
+This repository and the included data are licensed under the Open Database License (ODbL) by Reveal from The Center for Investigative Reporting.
 
 You are free to copy, distribute, transmit and adapt the spreadsheet, so long as you:
 
-- credit Reveal as specified below;
-- inform Reveal that you are using the data in your work by emailing Sinduja Rangarajan at srangarajan@revealnews.org; and 
-- offer any new work under the same license.
+- Do not change the data in any way that introduces errors
+- Credit Reveal as specified below, including linking back to Reveal as specified below.
+- Inform Reveal that you are using the data in your work by emailing Sinduja Rangarajan at srangarajan@revealnews.org. 
+- Share the spreadsheets under the same license.
 
-The [full legal code](https://opendatacommons.org/licenses/odbl/1.0/) explains your rights and responsibilities.
+If you alter or build upon our data, you may distribute the result only under the same license. The [full legal code](https://opendatacommons.org/licenses/odbl/1.0/) explains your rights and responsibilities.
 
 ### How to credit Reveal
 
-We require that you use the credit “Reveal from The Center for Investigative Reporting”. If it is distributed online, the credit must link to https://www.revealnews.org/svdiversity.
+For the spreadsheet Reveal_EEO1_for_2016.csv, we require that you use the credit “Reveal from The Center for Investigative Reporting." The credit must link to https://www.revealnews.org/svdiversity unless the credit is appearing in printed media.
+
+For the spreadsheet Tech_sector_diversity_demographics_2016.csv, we require that you use the credit “Reveal from The Center for Investigative Reporting and The Center for Employment Equity.” The credit must link to https://www.revealnews.org/topic/silicon-valley-diversity/ unless the credit is appearing in printed media.
 
 You must also make it clear to anyone who requests access to the data that it is available under the Open Database License. You can [link directly to the license](https://opendatacommons.org/licenses/odbl/1.0/). 
 
-### Fields in the data
+## Data documentation: Tech_sector_diversity_demographics_2016.csv
+### Field descriptions
+
+|Column name|Format|Description|
+|---|---|---|
+|job_category|string|Categories of jobs as classified on an EEO-1 diversity report.
+|race_ethnicity|string|Racial and ethnic breakdown of the employees in each job category.|
+|count|integer|Aggregated employee counts broken down by race/gender and job category. |
+|percentage|float|Calculated for each race/gender group within every job category. For example, percent of black executives = count of black executives/count of all executives.|
+
+#### job_category
+
+Companies may interpret these categories somewhat differently when reporting their numbers to the government. But generally, the job categories represent:
+
+|Job category|Description|
+|---|---|
+|Executives|Executives, senior officials and senior managers.|
+|Managers|First- and mid-level officials and managers.|
+|Professionals|Includes engineers, analysts, designers, web developers, lawyers and other professionals. Does not include sales workers,  administrative  support workers and other support staff.|
+|All workers|Total employees for the 177 companies. All workers includes executives, managers, professionals and other groups such as sales workers, administrative  support, laborers and helpers.|
+
+For more detail about these job categories, refer to the U.S. Equal Employment Opportunity Commission’s  job classification guide [here.](https://www.eeoc.gov/employers/eeo1survey/jobclassguide.cfm)
+
+####race_ethnicity 
+Racial and ethnicity breakdown of the employees in each job category. NOTE: Adding together the counts for individual races will not equal the count in the “Totals” fields. This is because this spreadsheet does not include individual breakdowns for workers who were categorized as American Indian, Alaskan Native, Native Hawaiian, Pacific Islander or two or more races. These races make up a very small percentage of both the U.S. population and Silicon Valley workers, which makes it difficult to draw conclusions about their individual representation.
+
+ - White
+ - Asian
+ - Black or African American
+ - Hispanic or Latino
+ - All = all races including white, Asian, black or African American, and Hispanic or Latino. Also includes two or more races, Native Hawaiian or Pacific Islander, and American Indian or Alaskan Native. 
+ - Totals = all the totals within that job category for all races and genders
+
+####gender
+Gender breakdown of the employees in each job category. NOTE: EEO-1 classifies all employees into either male or female, providing no options for nonbinary gender nonconforming individuals. EEO-1s do not have any information on sexual orientation. Gender totals add up to 100 percent.
+
+- Male 
+- Female 
+- Both = both the genders in that job category
+
+## Data documentation: Reveal_EEO1_for_2016.csv
+### Field descriptions
 
 |Column name|Format|Description|
 |---|---|---|
