@@ -1,6 +1,6 @@
 # Silicon Valley diversity data
 
-**NEW April 2018:** The spreadsheet Tech_sector_diversity_demographics_2016.csv contains aggregated diversity data for 177 large Silicon Valley tech companies. We calculated averages for the largest race and gender groups across job categories. For information on the aggregated data, read our post [here.]()
+**NEW April 2018:** The spreadsheet Tech_sector_diversity_demographics_2016.csv contains aggregated diversity data for 177 large Silicon Valley tech companies. We calculated averages for the largest race and gender groups across job categories. For information on the aggregated data, read our post [here.](https://www.revealnews.org/blog/the-sound-of-disparity-data-directed-silicon-valley-diversity-choir/)
 
 This repository also contains EEO-1 reports filed by Silicon Valley tech companies. Please [read our complete methodology](https://www.revealnews.org/article/how-we-analyzed-silicon-valley-tech-companies-diversity-data) for details on this data.
 
