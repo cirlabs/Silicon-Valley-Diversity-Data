@@ -1,5 +1,8 @@
 # Silicon Valley diversity data
 
+**NEW January 2019:**
+The spreadsheet `EEO1_FOIA_lawsuit_2015.csv` contains EEO-1 data for five new large companies including Oracle, Palantir, Pandora, Splunk and Gilead Sciences for the year 2015 only. This dataset was created as a result of Reveal from the Center for Investigative Reporting winning a Freedom of Information Act (FOIA) [lawsuit](https://www.revealnews.org/blog/we-got-the-government-to-reverse-its-longtime-policy-to-get-silicon-valley-diversity-data/) against the U.S. Department of Labor last year.
+
 **NEW June 2018:**
 The spreadsheet `Distributions_data_2016.csv` contains workforce distributions by job category and race for 177 of the largest tech companies headquartered in Silicon Valley.
 
@@ -33,11 +36,25 @@ If you alter or build upon our data, you may distribute the result only under th
 
 ### How to credit Reveal
 
+For the spreadsheet `EEO1_FOIA_lawsuit_2015.csv`, we require that you use the credit “Reveal from The Center for Investigative Reporting." The credit must link to https://www.revealnews.org/svdiversity unless the credit is appearing in printed media.
+
 For the spreadsheet `Reveal_EEO1_for_2016.csv`, we require that you use the credit “Reveal from The Center for Investigative Reporting." The credit must link to https://www.revealnews.org/svdiversity unless the credit is appearing in printed media.
 
 For the spreadsheets `Tech_sector_diversity_demographics_2016.csv` and `Distributions_data_2016.csv`, we require that you use the credit “Reveal from The Center for Investigative Reporting and The Center for Employment Equity.” The credit must link to https://www.revealnews.org/topic/silicon-valley-diversity/ unless the credit is appearing in printed media.
 
 You must also make it clear to anyone who requests access to the data that it is available under the Open Database License. You can [link directly to the license](https://opendatacommons.org/licenses/odbl/1.0/).
+
+## Data documentation: EEO1_FOIA_lawsuit_2015.csv
+### Field descriptions
+
+|Column name|Format|Description|
+|---|---|---|
+|company|String|Company name|
+|year|Integer|2015 only|
+|race|String|Possible values: "American_Indian_Alaskan_Native", "Asian", "Black_or_African_American", "Latino", "Native_Hawaiian_or_Pacific_Islander", "Two_or_more_races", "White", "Overall_totals"|
+|gender|String|Possible values: "male", "female". Non-binary gender is not counted in EEO-1 reports.|
+|job_category|String|Possible values: "Administrative support", "Craft workers", "Executive/Senior officials & Mgrs", "First/Mid officials & Mgrs", "laborers and helpers", "operatives", "Professionals", "Sales workers", "Service workers", "Technicians", "Previous_totals", "Totals"|
+|count|String|Mostly integer values, but contains "na" for a no-data variable.|
 
 ## Data documentation: Distributions_data_2016.csv
 

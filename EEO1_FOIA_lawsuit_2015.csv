@@ -1,0 +1,901 @@
+company,year,race,gender,job_category,count
+Oracle,2015,American_Indian_Alaskan_Native,female,Executive/Senior officials & Mgrs,0
+Oracle,2015,American_Indian_Alaskan_Native,female,Professionals,17
+Oracle,2015,American_Indian_Alaskan_Native,female,Technicians,0
+Oracle,2015,American_Indian_Alaskan_Native,female,Sales workers,9
+Oracle,2015,American_Indian_Alaskan_Native,female,Administrative support,0
+Oracle,2015,American_Indian_Alaskan_Native,female,Craft workers,0
+Oracle,2015,American_Indian_Alaskan_Native,female,operatives,0
+Oracle,2015,American_Indian_Alaskan_Native,female,laborers and helpers,0
+Oracle,2015,American_Indian_Alaskan_Native,female,Service workers,0
+Oracle,2015,American_Indian_Alaskan_Native,female,Totals,36
+Oracle,2015,American_Indian_Alaskan_Native,female,Previous_totals,33
+Oracle,2015,American_Indian_Alaskan_Native,female,First/Mid officials & Mgrs,10
+Oracle,2015,American_Indian_Alaskan_Native,male,Executive/Senior officials & Mgrs,0
+Oracle,2015,American_Indian_Alaskan_Native,male,Professionals,36
+Oracle,2015,American_Indian_Alaskan_Native,male,Technicians,5
+Oracle,2015,American_Indian_Alaskan_Native,male,Sales workers,18
+Oracle,2015,American_Indian_Alaskan_Native,male,Administrative support,1
+Oracle,2015,American_Indian_Alaskan_Native,male,Craft workers,0
+Oracle,2015,American_Indian_Alaskan_Native,male,operatives,0
+Oracle,2015,American_Indian_Alaskan_Native,male,laborers and helpers,0
+Oracle,2015,American_Indian_Alaskan_Native,male,Service workers,0
+Oracle,2015,American_Indian_Alaskan_Native,male,Totals,75
+Oracle,2015,American_Indian_Alaskan_Native,male,Previous_totals,71
+Oracle,2015,American_Indian_Alaskan_Native,male,First/Mid officials & Mgrs,15
+Oracle,2015,Asian,female,Executive/Senior officials & Mgrs,1
+Oracle,2015,Asian,female,Professionals,3036
+Oracle,2015,Asian,female,Technicians,19
+Oracle,2015,Asian,female,Sales workers,303
+Oracle,2015,Asian,female,Administrative support,101
+Oracle,2015,Asian,female,Craft workers,0
+Oracle,2015,Asian,female,operatives,0
+Oracle,2015,Asian,female,laborers and helpers,0
+Oracle,2015,Asian,female,Service workers,0
+Oracle,2015,Asian,female,Totals,4218
+Oracle,2015,Asian,female,Previous_totals,3946
+Oracle,2015,Asian,female,First/Mid officials & Mgrs,758
+Oracle,2015,Asian,male,Executive/Senior officials & Mgrs,13
+Oracle,2015,Asian,male,Professionals,6218
+Oracle,2015,Asian,male,Technicians,65
+Oracle,2015,Asian,male,Sales workers,702
+Oracle,2015,Asian,male,Administrative support,97
+Oracle,2015,Asian,male,Craft workers,0
+Oracle,2015,Asian,male,operatives,0
+Oracle,2015,Asian,male,laborers and helpers,0
+Oracle,2015,Asian,male,Service workers,0
+Oracle,2015,Asian,male,Totals,9635
+Oracle,2015,Asian,male,Previous_totals,9091
+Oracle,2015,Asian,male,First/Mid officials & Mgrs,2540
+Oracle,2015,Black_or_African_American,female,Executive/Senior officials & Mgrs,0
+Oracle,2015,Black_or_African_American,female,Professionals,343
+Oracle,2015,Black_or_African_American,female,Technicians,10
+Oracle,2015,Black_or_African_American,female,Sales workers,124
+Oracle,2015,Black_or_African_American,female,Administrative support,62
+Oracle,2015,Black_or_African_American,female,Craft workers,0
+Oracle,2015,Black_or_African_American,female,operatives,0
+Oracle,2015,Black_or_African_American,female,laborers and helpers,0
+Oracle,2015,Black_or_African_American,female,Service workers,0
+Oracle,2015,Black_or_African_American,female,Totals,613
+Oracle,2015,Black_or_African_American,female,Previous_totals,470
+Oracle,2015,Black_or_African_American,female,First/Mid officials & Mgrs,74
+Oracle,2015,Black_or_African_American,male,Executive/Senior officials & Mgrs,2
+Oracle,2015,Black_or_African_American,male,Professionals,513
+Oracle,2015,Black_or_African_American,male,Technicians,20
+Oracle,2015,Black_or_African_American,male,Sales workers,290
+Oracle,2015,Black_or_African_American,male,Administrative support,76
+Oracle,2015,Black_or_African_American,male,Craft workers,0
+Oracle,2015,Black_or_African_American,male,operatives,0
+Oracle,2015,Black_or_African_American,male,laborers and helpers,0
+Oracle,2015,Black_or_African_American,male,Service workers,0
+Oracle,2015,Black_or_African_American,male,Totals,1051
+Oracle,2015,Black_or_African_American,male,Previous_totals,814
+Oracle,2015,Black_or_African_American,male,First/Mid officials & Mgrs,150
+Oracle,2015,Latino,female,Executive/Senior officials & Mgrs,0
+Oracle,2015,Latino,female,Professionals,461
+Oracle,2015,Latino,female,Technicians,5
+Oracle,2015,Latino,female,Sales workers,138
+Oracle,2015,Latino,female,Administrative support,55
+Oracle,2015,Latino,female,Craft workers,0
+Oracle,2015,Latino,female,operatives,0
+Oracle,2015,Latino,female,laborers and helpers,0
+Oracle,2015,Latino,female,Service workers,0
+Oracle,2015,Latino,female,Totals,768
+Oracle,2015,Latino,female,Previous_totals,648
+Oracle,2015,Latino,female,First/Mid officials & Mgrs,109
+Oracle,2015,Latino,male,Executive/Senior officials & Mgrs,1
+Oracle,2015,Latino,male,Professionals,782
+Oracle,2015,Latino,male,Technicians,27
+Oracle,2015,Latino,male,Sales workers,321
+Oracle,2015,Latino,male,Administrative support,54
+Oracle,2015,Latino,male,Craft workers,0
+Oracle,2015,Latino,male,operatives,0
+Oracle,2015,Latino,male,laborers and helpers,0
+Oracle,2015,Latino,male,Service workers,0
+Oracle,2015,Latino,male,Totals,1497
+Oracle,2015,Latino,male,Previous_totals,1279
+Oracle,2015,Latino,male,First/Mid officials & Mgrs,312
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,Executive/Senior officials & Mgrs,0
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,Professionals,45
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,Technicians,1
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,Sales workers,11
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,Administrative support,2
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,Craft workers,0
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,operatives,0
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,laborers and helpers,0
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,Service workers,0
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,Totals,66
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,Previous_totals,59
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,female,First/Mid officials & Mgrs,7
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,Executive/Senior officials & Mgrs,0
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,Professionals,59
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,Technicians,3
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,Sales workers,33
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,Administrative support,2
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,Craft workers,0
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,operatives,0
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,laborers and helpers,0
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,Service workers,0
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,Totals,112
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,Previous_totals,93
+Oracle,2015,Native_Hawaiian_or_Pacific_Islander,male,First/Mid officials & Mgrs,15
+Oracle,2015,Two_or_more_races,female,Executive/Senior officials & Mgrs,0
+Oracle,2015,Two_or_more_races,female,Professionals,137
+Oracle,2015,Two_or_more_races,female,Technicians,0
+Oracle,2015,Two_or_more_races,female,Sales workers,93
+Oracle,2015,Two_or_more_races,female,Administrative support,22
+Oracle,2015,Two_or_more_races,female,Craft workers,0
+Oracle,2015,Two_or_more_races,female,operatives,0
+Oracle,2015,Two_or_more_races,female,laborers and helpers,0
+Oracle,2015,Two_or_more_races,female,Service workers,0
+Oracle,2015,Two_or_more_races,female,Totals,292
+Oracle,2015,Two_or_more_races,female,Previous_totals,211
+Oracle,2015,Two_or_more_races,female,First/Mid officials & Mgrs,40
+Oracle,2015,Two_or_more_races,male,Executive/Senior officials & Mgrs,0
+Oracle,2015,Two_or_more_races,male,Professionals,247
+Oracle,2015,Two_or_more_races,male,Technicians,14
+Oracle,2015,Two_or_more_races,male,Sales workers,183
+Oracle,2015,Two_or_more_races,male,Administrative support,19
+Oracle,2015,Two_or_more_races,male,Craft workers,0
+Oracle,2015,Two_or_more_races,male,operatives,0
+Oracle,2015,Two_or_more_races,male,laborers and helpers,0
+Oracle,2015,Two_or_more_races,male,Service workers,0
+Oracle,2015,Two_or_more_races,male,Totals,548
+Oracle,2015,Two_or_more_races,male,Previous_totals,434
+Oracle,2015,Two_or_more_races,male,First/Mid officials & Mgrs,85
+Oracle,2015,White,female,Executive/Senior officials & Mgrs,12
+Oracle,2015,White,female,Professionals,4386
+Oracle,2015,White,female,Technicians,32
+Oracle,2015,White,female,Sales workers,2066
+Oracle,2015,White,female,Administrative support,270
+Oracle,2015,White,female,Craft workers,0
+Oracle,2015,White,female,operatives,0
+Oracle,2015,White,female,laborers and helpers,0
+Oracle,2015,White,female,Service workers,0
+Oracle,2015,White,female,Totals,8704
+Oracle,2015,White,female,Previous_totals,7879
+Oracle,2015,White,female,First/Mid officials & Mgrs,1938
+Oracle,2015,White,male,Executive/Senior officials & Mgrs,74
+Oracle,2015,White,male,Professionals,9835
+Oracle,2015,White,male,Technicians,238
+Oracle,2015,White,male,Sales workers,6220
+Oracle,2015,White,male,Administrative support,262
+Oracle,2015,White,male,Craft workers,0
+Oracle,2015,White,male,operatives,0
+Oracle,2015,White,male,laborers and helpers,0
+Oracle,2015,White,male,Service workers,0
+Oracle,2015,White,male,Totals,22111
+Oracle,2015,White,male,Previous_totals,20540
+Oracle,2015,White,male,First/Mid officials & Mgrs,5482
+Oracle,2015,Overall_totals,,Executive/Senior officials & Mgrs,103
+Oracle,2015,Overall_totals,,Professionals,26115
+Oracle,2015,Overall_totals,,Technicians,439
+Oracle,2015,Overall_totals,,Sales workers,10511
+Oracle,2015,Overall_totals,,Administrative support,1023
+Oracle,2015,Overall_totals,,Craft workers,0
+Oracle,2015,Overall_totals,,operatives,0
+Oracle,2015,Overall_totals,,laborers and helpers,0
+Oracle,2015,Overall_totals,,Service workers,0
+Oracle,2015,Overall_totals,,Totals,49726
+Oracle,2015,Overall_totals,,Previous_totals,45568
+Oracle,2015,Overall_totals,,First/Mid officials & Mgrs,11535
+Palantir,2015,American_Indian_Alaskan_Native,female,Executive/Senior officials & Mgrs,0
+Palantir,2015,American_Indian_Alaskan_Native,female,Professionals,0
+Palantir,2015,American_Indian_Alaskan_Native,female,Technicians,0
+Palantir,2015,American_Indian_Alaskan_Native,female,Sales workers,0
+Palantir,2015,American_Indian_Alaskan_Native,female,Administrative support,0
+Palantir,2015,American_Indian_Alaskan_Native,female,Craft workers,0
+Palantir,2015,American_Indian_Alaskan_Native,female,operatives,0
+Palantir,2015,American_Indian_Alaskan_Native,female,laborers and helpers,0
+Palantir,2015,American_Indian_Alaskan_Native,female,Service workers,0
+Palantir,2015,American_Indian_Alaskan_Native,female,Totals,0
+Palantir,2015,American_Indian_Alaskan_Native,female,Previous_totals,1
+Palantir,2015,American_Indian_Alaskan_Native,female,First/Mid officials & Mgrs,0
+Palantir,2015,American_Indian_Alaskan_Native,male,Executive/Senior officials & Mgrs,0
+Palantir,2015,American_Indian_Alaskan_Native,male,Professionals,1
+Palantir,2015,American_Indian_Alaskan_Native,male,Technicians,0
+Palantir,2015,American_Indian_Alaskan_Native,male,Sales workers,0
+Palantir,2015,American_Indian_Alaskan_Native,male,Administrative support,1
+Palantir,2015,American_Indian_Alaskan_Native,male,Craft workers,0
+Palantir,2015,American_Indian_Alaskan_Native,male,operatives,0
+Palantir,2015,American_Indian_Alaskan_Native,male,laborers and helpers,0
+Palantir,2015,American_Indian_Alaskan_Native,male,Service workers,0
+Palantir,2015,American_Indian_Alaskan_Native,male,Totals,2
+Palantir,2015,American_Indian_Alaskan_Native,male,Previous_totals,2
+Palantir,2015,American_Indian_Alaskan_Native,male,First/Mid officials & Mgrs,0
+Palantir,2015,Asian,female,Executive/Senior officials & Mgrs,0
+Palantir,2015,Asian,female,Professionals,87
+Palantir,2015,Asian,female,Technicians,0
+Palantir,2015,Asian,female,Sales workers,0
+Palantir,2015,Asian,female,Administrative support,22
+Palantir,2015,Asian,female,Craft workers,0
+Palantir,2015,Asian,female,operatives,0
+Palantir,2015,Asian,female,laborers and helpers,0
+Palantir,2015,Asian,female,Service workers,0
+Palantir,2015,Asian,female,Totals,109
+Palantir,2015,Asian,female,Previous_totals,74
+Palantir,2015,Asian,female,First/Mid officials & Mgrs,0
+Palantir,2015,Asian,male,Executive/Senior officials & Mgrs,2
+Palantir,2015,Asian,male,Professionals,250
+Palantir,2015,Asian,male,Technicians,0
+Palantir,2015,Asian,male,Sales workers,0
+Palantir,2015,Asian,male,Administrative support,21
+Palantir,2015,Asian,male,Craft workers,0
+Palantir,2015,Asian,male,operatives,0
+Palantir,2015,Asian,male,laborers and helpers,0
+Palantir,2015,Asian,male,Service workers,1
+Palantir,2015,Asian,male,Totals,276
+Palantir,2015,Asian,male,Previous_totals,194
+Palantir,2015,Asian,male,First/Mid officials & Mgrs,2
+Palantir,2015,Black_or_African_American,female,Executive/Senior officials & Mgrs,0
+Palantir,2015,Black_or_African_American,female,Professionals,4
+Palantir,2015,Black_or_African_American,female,Technicians,0
+Palantir,2015,Black_or_African_American,female,Sales workers,0
+Palantir,2015,Black_or_African_American,female,Administrative support,3
+Palantir,2015,Black_or_African_American,female,Craft workers,0
+Palantir,2015,Black_or_African_American,female,operatives,0
+Palantir,2015,Black_or_African_American,female,laborers and helpers,0
+Palantir,2015,Black_or_African_American,female,Service workers,0
+Palantir,2015,Black_or_African_American,female,Totals,7
+Palantir,2015,Black_or_African_American,female,Previous_totals,2
+Palantir,2015,Black_or_African_American,female,First/Mid officials & Mgrs,0
+Palantir,2015,Black_or_African_American,male,Executive/Senior officials & Mgrs,1
+Palantir,2015,Black_or_African_American,male,Professionals,14
+Palantir,2015,Black_or_African_American,male,Technicians,0
+Palantir,2015,Black_or_African_American,male,Sales workers,0
+Palantir,2015,Black_or_African_American,male,Administrative support,1
+Palantir,2015,Black_or_African_American,male,Craft workers,0
+Palantir,2015,Black_or_African_American,male,operatives,0
+Palantir,2015,Black_or_African_American,male,laborers and helpers,0
+Palantir,2015,Black_or_African_American,male,Service workers,2
+Palantir,2015,Black_or_African_American,male,Totals,18
+Palantir,2015,Black_or_African_American,male,Previous_totals,13
+Palantir,2015,Black_or_African_American,male,First/Mid officials & Mgrs,0
+Palantir,2015,Latino,female,Executive/Senior officials & Mgrs,0
+Palantir,2015,Latino,female,Professionals,15
+Palantir,2015,Latino,female,Technicians,0
+Palantir,2015,Latino,female,Sales workers,0
+Palantir,2015,Latino,female,Administrative support,8
+Palantir,2015,Latino,female,Craft workers,0
+Palantir,2015,Latino,female,operatives,0
+Palantir,2015,Latino,female,laborers and helpers,0
+Palantir,2015,Latino,female,Service workers,1
+Palantir,2015,Latino,female,Totals,24
+Palantir,2015,Latino,female,Previous_totals,16
+Palantir,2015,Latino,female,First/Mid officials & Mgrs,0
+Palantir,2015,Latino,male,Executive/Senior officials & Mgrs,0
+Palantir,2015,Latino,male,Professionals,40
+Palantir,2015,Latino,male,Technicians,0
+Palantir,2015,Latino,male,Sales workers,0
+Palantir,2015,Latino,male,Administrative support,4
+Palantir,2015,Latino,male,Craft workers,0
+Palantir,2015,Latino,male,operatives,0
+Palantir,2015,Latino,male,laborers and helpers,0
+Palantir,2015,Latino,male,Service workers,2
+Palantir,2015,Latino,male,Totals,46
+Palantir,2015,Latino,male,Previous_totals,19
+Palantir,2015,Latino,male,First/Mid officials & Mgrs,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,Executive/Senior officials & Mgrs,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,Professionals,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,Technicians,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,Sales workers,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,Administrative support,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,Craft workers,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,operatives,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,laborers and helpers,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,Service workers,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,Totals,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,Previous_totals,1
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,female,First/Mid officials & Mgrs,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,Executive/Senior officials & Mgrs,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,Professionals,2
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,Technicians,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,Sales workers,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,Administrative support,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,Craft workers,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,operatives,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,laborers and helpers,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,Service workers,0
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,Totals,2
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,Previous_totals,2
+Palantir,2015,Native_Hawaiian_or_Pacific_Islander,male,First/Mid officials & Mgrs,0
+Palantir,2015,Two_or_more_races,female,Executive/Senior officials & Mgrs,0
+Palantir,2015,Two_or_more_races,female,Professionals,13
+Palantir,2015,Two_or_more_races,female,Technicians,0
+Palantir,2015,Two_or_more_races,female,Sales workers,0
+Palantir,2015,Two_or_more_races,female,Administrative support,4
+Palantir,2015,Two_or_more_races,female,Craft workers,0
+Palantir,2015,Two_or_more_races,female,operatives,0
+Palantir,2015,Two_or_more_races,female,laborers and helpers,0
+Palantir,2015,Two_or_more_races,female,Service workers,0
+Palantir,2015,Two_or_more_races,female,Totals,17
+Palantir,2015,Two_or_more_races,female,Previous_totals,11
+Palantir,2015,Two_or_more_races,female,First/Mid officials & Mgrs,0
+Palantir,2015,Two_or_more_races,male,Executive/Senior officials & Mgrs,0
+Palantir,2015,Two_or_more_races,male,Professionals,34
+Palantir,2015,Two_or_more_races,male,Technicians,0
+Palantir,2015,Two_or_more_races,male,Sales workers,0
+Palantir,2015,Two_or_more_races,male,Administrative support,2
+Palantir,2015,Two_or_more_races,male,Craft workers,0
+Palantir,2015,Two_or_more_races,male,operatives,0
+Palantir,2015,Two_or_more_races,male,laborers and helpers,0
+Palantir,2015,Two_or_more_races,male,Service workers,0
+Palantir,2015,Two_or_more_races,male,Totals,37
+Palantir,2015,Two_or_more_races,male,Previous_totals,31
+Palantir,2015,Two_or_more_races,male,First/Mid officials & Mgrs,1
+Palantir,2015,White,female,Executive/Senior officials & Mgrs,0
+Palantir,2015,White,female,Professionals,184
+Palantir,2015,White,female,Technicians,0
+Palantir,2015,White,female,Sales workers,0
+Palantir,2015,White,female,Administrative support,46
+Palantir,2015,White,female,Craft workers,0
+Palantir,2015,White,female,operatives,0
+Palantir,2015,White,female,laborers and helpers,0
+Palantir,2015,White,female,Service workers,2
+Palantir,2015,White,female,Totals,233
+Palantir,2015,White,female,Previous_totals,156
+Palantir,2015,White,female,First/Mid officials & Mgrs,1
+Palantir,2015,White,male,Executive/Senior officials & Mgrs,7
+Palantir,2015,White,male,Professionals,684
+Palantir,2015,White,male,Technicians,0
+Palantir,2015,White,male,Sales workers,0
+Palantir,2015,White,male,Administrative support,63
+Palantir,2015,White,male,Craft workers,0
+Palantir,2015,White,male,operatives,0
+Palantir,2015,White,male,laborers and helpers,0
+Palantir,2015,White,male,Service workers,6
+Palantir,2015,White,male,Totals,766
+Palantir,2015,White,male,Previous_totals,586
+Palantir,2015,White,male,First/Mid officials & Mgrs,6
+Palantir,2015,Overall_totals,,Executive/Senior officials & Mgrs,10
+Palantir,2015,Overall_totals,,Professionals,1328
+Palantir,2015,Overall_totals,,Technicians,0
+Palantir,2015,Overall_totals,,Sales workers,0
+Palantir,2015,Overall_totals,,Administrative support,175
+Palantir,2015,Overall_totals,,Craft workers,0
+Palantir,2015,Overall_totals,,operatives,0
+Palantir,2015,Overall_totals,,laborers and helpers,0
+Palantir,2015,Overall_totals,,Service workers,14
+Palantir,2015,Overall_totals,,Totals,1537
+Palantir,2015,Overall_totals,,Previous_totals,1108
+Palantir,2015,Overall_totals,,First/Mid officials & Mgrs,10
+Pandora Media,2015,American_Indian_Alaskan_Native,female,Executive/Senior officials & Mgrs,1
+Pandora Media,2015,American_Indian_Alaskan_Native,female,Professionals,0
+Pandora Media,2015,American_Indian_Alaskan_Native,female,Technicians,0
+Pandora Media,2015,American_Indian_Alaskan_Native,female,Sales workers,0
+Pandora Media,2015,American_Indian_Alaskan_Native,female,Administrative support,1
+Pandora Media,2015,American_Indian_Alaskan_Native,female,Craft workers,0
+Pandora Media,2015,American_Indian_Alaskan_Native,female,operatives,0
+Pandora Media,2015,American_Indian_Alaskan_Native,female,laborers and helpers,0
+Pandora Media,2015,American_Indian_Alaskan_Native,female,Service workers,0
+Pandora Media,2015,American_Indian_Alaskan_Native,female,Totals,2
+Pandora Media,2015,American_Indian_Alaskan_Native,female,Previous_totals,0
+Pandora Media,2015,American_Indian_Alaskan_Native,female,First/Mid officials & Mgrs,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,Executive/Senior officials & Mgrs,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,Professionals,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,Technicians,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,Sales workers,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,Administrative support,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,Craft workers,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,operatives,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,laborers and helpers,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,Service workers,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,Totals,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,Previous_totals,0
+Pandora Media,2015,American_Indian_Alaskan_Native,male,First/Mid officials & Mgrs,0
+Pandora Media,2015,Asian,female,Executive/Senior officials & Mgrs,0
+Pandora Media,2015,Asian,female,Professionals,51
+Pandora Media,2015,Asian,female,Technicians,1
+Pandora Media,2015,Asian,female,Sales workers,3
+Pandora Media,2015,Asian,female,Administrative support,36
+Pandora Media,2015,Asian,female,Craft workers,0
+Pandora Media,2015,Asian,female,operatives,0
+Pandora Media,2015,Asian,female,laborers and helpers,0
+Pandora Media,2015,Asian,female,Service workers,0
+Pandora Media,2015,Asian,female,Totals,109
+Pandora Media,2015,Asian,female,Previous_totals,71
+Pandora Media,2015,Asian,female,First/Mid officials & Mgrs,18
+Pandora Media,2015,Asian,male,Executive/Senior officials & Mgrs,3
+Pandora Media,2015,Asian,male,Professionals,87
+Pandora Media,2015,Asian,male,Technicians,0
+Pandora Media,2015,Asian,male,Sales workers,4
+Pandora Media,2015,Asian,male,Administrative support,17
+Pandora Media,2015,Asian,male,Craft workers,0
+Pandora Media,2015,Asian,male,operatives,0
+Pandora Media,2015,Asian,male,laborers and helpers,0
+Pandora Media,2015,Asian,male,Service workers,0
+Pandora Media,2015,Asian,male,Totals,132
+Pandora Media,2015,Asian,male,Previous_totals,91
+Pandora Media,2015,Asian,male,First/Mid officials & Mgrs,21
+Pandora Media,2015,Black_or_African_American,female,Executive/Senior officials & Mgrs,0
+Pandora Media,2015,Black_or_African_American,female,Professionals,2
+Pandora Media,2015,Black_or_African_American,female,Technicians,0
+Pandora Media,2015,Black_or_African_American,female,Sales workers,6
+Pandora Media,2015,Black_or_African_American,female,Administrative support,12
+Pandora Media,2015,Black_or_African_American,female,Craft workers,0
+Pandora Media,2015,Black_or_African_American,female,operatives,0
+Pandora Media,2015,Black_or_African_American,female,laborers and helpers,0
+Pandora Media,2015,Black_or_African_American,female,Service workers,0
+Pandora Media,2015,Black_or_African_American,female,Totals,25
+Pandora Media,2015,Black_or_African_American,female,Previous_totals,17
+Pandora Media,2015,Black_or_African_American,female,First/Mid officials & Mgrs,5
+Pandora Media,2015,Black_or_African_American,male,Executive/Senior officials & Mgrs,0
+Pandora Media,2015,Black_or_African_American,male,Professionals,12
+Pandora Media,2015,Black_or_African_American,male,Technicians,0
+Pandora Media,2015,Black_or_African_American,male,Sales workers,2
+Pandora Media,2015,Black_or_African_American,male,Administrative support,14
+Pandora Media,2015,Black_or_African_American,male,Craft workers,0
+Pandora Media,2015,Black_or_African_American,male,operatives,0
+Pandora Media,2015,Black_or_African_American,male,laborers and helpers,0
+Pandora Media,2015,Black_or_African_American,male,Service workers,0
+Pandora Media,2015,Black_or_African_American,male,Totals,37
+Pandora Media,2015,Black_or_African_American,male,Previous_totals,23
+Pandora Media,2015,Black_or_African_American,male,First/Mid officials & Mgrs,9
+Pandora Media,2015,Latino,female,Executive/Senior officials & Mgrs,2
+Pandora Media,2015,Latino,female,Professionals,24
+Pandora Media,2015,Latino,female,Technicians,1
+Pandora Media,2015,Latino,female,Sales workers,10
+Pandora Media,2015,Latino,female,Administrative support,18
+Pandora Media,2015,Latino,female,Craft workers,0
+Pandora Media,2015,Latino,female,operatives,0
+Pandora Media,2015,Latino,female,laborers and helpers,0
+Pandora Media,2015,Latino,female,Service workers,0
+Pandora Media,2015,Latino,female,Totals,64
+Pandora Media,2015,Latino,female,Previous_totals,60
+Pandora Media,2015,Latino,female,First/Mid officials & Mgrs,9
+Pandora Media,2015,Latino,male,Executive/Senior officials & Mgrs,1
+Pandora Media,2015,Latino,male,Professionals,18
+Pandora Media,2015,Latino,male,Technicians,1
+Pandora Media,2015,Latino,male,Sales workers,8
+Pandora Media,2015,Latino,male,Administrative support,20
+Pandora Media,2015,Latino,male,Craft workers,0
+Pandora Media,2015,Latino,male,operatives,0
+Pandora Media,2015,Latino,male,laborers and helpers,0
+Pandora Media,2015,Latino,male,Service workers,0
+Pandora Media,2015,Latino,male,Totals,60
+Pandora Media,2015,Latino,male,Previous_totals,35
+Pandora Media,2015,Latino,male,First/Mid officials & Mgrs,12
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,Executive/Senior officials & Mgrs,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,Professionals,4
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,Technicians,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,Sales workers,2
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,Administrative support,1
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,Craft workers,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,operatives,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,laborers and helpers,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,Service workers,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,Totals,10
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,Previous_totals,9
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,female,First/Mid officials & Mgrs,3
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,Executive/Senior officials & Mgrs,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,Professionals,1
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,Technicians,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,Sales workers,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,Administrative support,2
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,Craft workers,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,operatives,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,laborers and helpers,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,Service workers,0
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,Totals,3
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,Previous_totals,4
+Pandora Media,2015,Native_Hawaiian_or_Pacific_Islander,male,First/Mid officials & Mgrs,0
+Pandora Media,2015,Two_or_more_races,female,Executive/Senior officials & Mgrs,0
+Pandora Media,2015,Two_or_more_races,female,Professionals,15
+Pandora Media,2015,Two_or_more_races,female,Technicians,0
+Pandora Media,2015,Two_or_more_races,female,Sales workers,11
+Pandora Media,2015,Two_or_more_races,female,Administrative support,25
+Pandora Media,2015,Two_or_more_races,female,Craft workers,0
+Pandora Media,2015,Two_or_more_races,female,operatives,0
+Pandora Media,2015,Two_or_more_races,female,laborers and helpers,0
+Pandora Media,2015,Two_or_more_races,female,Service workers,0
+Pandora Media,2015,Two_or_more_races,female,Totals,61
+Pandora Media,2015,Two_or_more_races,female,Previous_totals,35
+Pandora Media,2015,Two_or_more_races,female,First/Mid officials & Mgrs,10
+Pandora Media,2015,Two_or_more_races,male,Executive/Senior officials & Mgrs,1
+Pandora Media,2015,Two_or_more_races,male,Professionals,27
+Pandora Media,2015,Two_or_more_races,male,Technicians,1
+Pandora Media,2015,Two_or_more_races,male,Sales workers,6
+Pandora Media,2015,Two_or_more_races,male,Administrative support,14
+Pandora Media,2015,Two_or_more_races,male,Craft workers,0
+Pandora Media,2015,Two_or_more_races,male,operatives,0
+Pandora Media,2015,Two_or_more_races,male,laborers and helpers,0
+Pandora Media,2015,Two_or_more_races,male,Service workers,0
+Pandora Media,2015,Two_or_more_races,male,Totals,60
+Pandora Media,2015,Two_or_more_races,male,Previous_totals,39
+Pandora Media,2015,Two_or_more_races,male,First/Mid officials & Mgrs,11
+Pandora Media,2015,White,female,Executive/Senior officials & Mgrs,15
+Pandora Media,2015,White,female,Professionals,107
+Pandora Media,2015,White,female,Technicians,1
+Pandora Media,2015,White,female,Sales workers,165
+Pandora Media,2015,White,female,Administrative support,159
+Pandora Media,2015,White,female,Craft workers,0
+Pandora Media,2015,White,female,operatives,0
+Pandora Media,2015,White,female,laborers and helpers,0
+Pandora Media,2015,White,female,Service workers,0
+Pandora Media,2015,White,female,Totals,599
+Pandora Media,2015,White,female,Previous_totals,454
+Pandora Media,2015,White,female,First/Mid officials & Mgrs,152
+Pandora Media,2015,White,male,Executive/Senior officials & Mgrs,53
+Pandora Media,2015,White,male,Professionals,211
+Pandora Media,2015,White,male,Technicians,6
+Pandora Media,2015,White,male,Sales workers,90
+Pandora Media,2015,White,male,Administrative support,95
+Pandora Media,2015,White,male,Craft workers,0
+Pandora Media,2015,White,male,operatives,0
+Pandora Media,2015,White,male,laborers and helpers,0
+Pandora Media,2015,White,male,Service workers,0
+Pandora Media,2015,White,male,Totals,601
+Pandora Media,2015,White,male,Previous_totals,477
+Pandora Media,2015,White,male,First/Mid officials & Mgrs,146
+Pandora Media,2015,Overall_totals,,Executive/Senior officials & Mgrs,76
+Pandora Media,2015,Overall_totals,,Professionals,559
+Pandora Media,2015,Overall_totals,,Technicians,11
+Pandora Media,2015,Overall_totals,,Sales workers,307
+Pandora Media,2015,Overall_totals,,Administrative support,414
+Pandora Media,2015,Overall_totals,,Craft workers,0
+Pandora Media,2015,Overall_totals,,operatives,0
+Pandora Media,2015,Overall_totals,,laborers and helpers,0
+Pandora Media,2015,Overall_totals,,Service workers,0
+Pandora Media,2015,Overall_totals,,Totals,1763
+Pandora Media,2015,Overall_totals,,Previous_totals,1315
+Pandora Media,2015,Overall_totals,,First/Mid officials & Mgrs,396
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,Executive/Senior officials & Mgrs,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,Professionals,2
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,Technicians,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,Sales workers,1
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,Administrative support,1
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,Craft workers,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,operatives,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,laborers and helpers,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,Service workers,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,Totals,6
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,Previous_totals,5
+Gilead Sciences,2015,American_Indian_Alaskan_Native,female,First/Mid officials & Mgrs,2
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,Executive/Senior officials & Mgrs,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,Professionals,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,Technicians,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,Sales workers,2
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,Administrative support,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,Craft workers,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,operatives,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,laborers and helpers,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,Service workers,0
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,Totals,2
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,Previous_totals,1
+Gilead Sciences,2015,American_Indian_Alaskan_Native,male,First/Mid officials & Mgrs,0
+Gilead Sciences,2015,Asian,female,Executive/Senior officials & Mgrs,2
+Gilead Sciences,2015,Asian,female,Professionals,621
+Gilead Sciences,2015,Asian,female,Technicians,22
+Gilead Sciences,2015,Asian,female,Sales workers,24
+Gilead Sciences,2015,Asian,female,Administrative support,72
+Gilead Sciences,2015,Asian,female,Craft workers,0
+Gilead Sciences,2015,Asian,female,operatives,4
+Gilead Sciences,2015,Asian,female,laborers and helpers,0
+Gilead Sciences,2015,Asian,female,Service workers,0
+Gilead Sciences,2015,Asian,female,Totals,1055
+Gilead Sciences,2015,Asian,female,Previous_totals,894
+Gilead Sciences,2015,Asian,female,First/Mid officials & Mgrs,310
+Gilead Sciences,2015,Asian,male,Executive/Senior officials & Mgrs,5
+Gilead Sciences,2015,Asian,male,Professionals,424
+Gilead Sciences,2015,Asian,male,Technicians,29
+Gilead Sciences,2015,Asian,male,Sales workers,18
+Gilead Sciences,2015,Asian,male,Administrative support,10
+Gilead Sciences,2015,Asian,male,Craft workers,0
+Gilead Sciences,2015,Asian,male,operatives,9
+Gilead Sciences,2015,Asian,male,laborers and helpers,2
+Gilead Sciences,2015,Asian,male,Service workers,0
+Gilead Sciences,2015,Asian,male,Totals,763
+Gilead Sciences,2015,Asian,male,Previous_totals,629
+Gilead Sciences,2015,Asian,male,First/Mid officials & Mgrs,266
+Gilead Sciences,2015,Black_or_African_American,female,Executive/Senior officials & Mgrs,1
+Gilead Sciences,2015,Black_or_African_American,female,Professionals,33
+Gilead Sciences,2015,Black_or_African_American,female,Technicians,1
+Gilead Sciences,2015,Black_or_African_American,female,Sales workers,22
+Gilead Sciences,2015,Black_or_African_American,female,Administrative support,19
+Gilead Sciences,2015,Black_or_African_American,female,Craft workers,0
+Gilead Sciences,2015,Black_or_African_American,female,operatives,5
+Gilead Sciences,2015,Black_or_African_American,female,laborers and helpers,2
+Gilead Sciences,2015,Black_or_African_American,female,Service workers,0
+Gilead Sciences,2015,Black_or_African_American,female,Totals,125
+Gilead Sciences,2015,Black_or_African_American,female,Previous_totals,114
+Gilead Sciences,2015,Black_or_African_American,female,First/Mid officials & Mgrs,42
+Gilead Sciences,2015,Black_or_African_American,male,Executive/Senior officials & Mgrs,3
+Gilead Sciences,2015,Black_or_African_American,male,Professionals,22
+Gilead Sciences,2015,Black_or_African_American,male,Technicians,0
+Gilead Sciences,2015,Black_or_African_American,male,Sales workers,20
+Gilead Sciences,2015,Black_or_African_American,male,Administrative support,2
+Gilead Sciences,2015,Black_or_African_American,male,Craft workers,0
+Gilead Sciences,2015,Black_or_African_American,male,operatives,1
+Gilead Sciences,2015,Black_or_African_American,male,laborers and helpers,0
+Gilead Sciences,2015,Black_or_African_American,male,Service workers,0
+Gilead Sciences,2015,Black_or_African_American,male,Totals,80
+Gilead Sciences,2015,Black_or_African_American,male,Previous_totals,75
+Gilead Sciences,2015,Black_or_African_American,male,First/Mid officials & Mgrs,32
+Gilead Sciences,2015,Latino,female,Executive/Senior officials & Mgrs,0
+Gilead Sciences,2015,Latino,female,Professionals,77
+Gilead Sciences,2015,Latino,female,Technicians,10
+Gilead Sciences,2015,Latino,female,Sales workers,18
+Gilead Sciences,2015,Latino,female,Administrative support,40
+Gilead Sciences,2015,Latino,female,Craft workers,0
+Gilead Sciences,2015,Latino,female,operatives,15
+Gilead Sciences,2015,Latino,female,laborers and helpers,2
+Gilead Sciences,2015,Latino,female,Service workers,0
+Gilead Sciences,2015,Latino,female,Totals,205
+Gilead Sciences,2015,Latino,female,Previous_totals,182
+Gilead Sciences,2015,Latino,female,First/Mid officials & Mgrs,43
+Gilead Sciences,2015,Latino,male,Executive/Senior officials & Mgrs,0
+Gilead Sciences,2015,Latino,male,Professionals,51
+Gilead Sciences,2015,Latino,male,Technicians,11
+Gilead Sciences,2015,Latino,male,Sales workers,31
+Gilead Sciences,2015,Latino,male,Administrative support,12
+Gilead Sciences,2015,Latino,male,Craft workers,0
+Gilead Sciences,2015,Latino,male,operatives,44
+Gilead Sciences,2015,Latino,male,laborers and helpers,2
+Gilead Sciences,2015,Latino,male,Service workers,0
+Gilead Sciences,2015,Latino,male,Totals,201
+Gilead Sciences,2015,Latino,male,Previous_totals,176
+Gilead Sciences,2015,Latino,male,First/Mid officials & Mgrs,50
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,Executive/Senior officials & Mgrs,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,Professionals,3
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,Technicians,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,Sales workers,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,Administrative support,3
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,Craft workers,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,operatives,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,laborers and helpers,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,Service workers,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,Totals,9
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,Previous_totals,9
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,female,First/Mid officials & Mgrs,3
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,Executive/Senior officials & Mgrs,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,Professionals,11
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,Technicians,2
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,Sales workers,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,Administrative support,2
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,Craft workers,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,operatives,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,laborers and helpers,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,Service workers,0
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,Totals,19
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,Previous_totals,18
+Gilead Sciences,2015,Native_Hawaiian_or_Pacific_Islander,male,First/Mid officials & Mgrs,4
+Gilead Sciences,2015,Two_or_more_races,female,Executive/Senior officials & Mgrs,0
+Gilead Sciences,2015,Two_or_more_races,female,Professionals,29
+Gilead Sciences,2015,Two_or_more_races,female,Technicians,0
+Gilead Sciences,2015,Two_or_more_races,female,Sales workers,2
+Gilead Sciences,2015,Two_or_more_races,female,Administrative support,12
+Gilead Sciences,2015,Two_or_more_races,female,Craft workers,0
+Gilead Sciences,2015,Two_or_more_races,female,operatives,0
+Gilead Sciences,2015,Two_or_more_races,female,laborers and helpers,0
+Gilead Sciences,2015,Two_or_more_races,female,Service workers,0
+Gilead Sciences,2015,Two_or_more_races,female,Totals,60
+Gilead Sciences,2015,Two_or_more_races,female,Previous_totals,50
+Gilead Sciences,2015,Two_or_more_races,female,First/Mid officials & Mgrs,17
+Gilead Sciences,2015,Two_or_more_races,male,Executive/Senior officials & Mgrs,0
+Gilead Sciences,2015,Two_or_more_races,male,Professionals,17
+Gilead Sciences,2015,Two_or_more_races,male,Technicians,2
+Gilead Sciences,2015,Two_or_more_races,male,Sales workers,3
+Gilead Sciences,2015,Two_or_more_races,male,Administrative support,1
+Gilead Sciences,2015,Two_or_more_races,male,Craft workers,0
+Gilead Sciences,2015,Two_or_more_races,male,operatives,4
+Gilead Sciences,2015,Two_or_more_races,male,laborers and helpers,0
+Gilead Sciences,2015,Two_or_more_races,male,Service workers,0
+Gilead Sciences,2015,Two_or_more_races,male,Totals,43
+Gilead Sciences,2015,Two_or_more_races,male,Previous_totals,26
+Gilead Sciences,2015,Two_or_more_races,male,First/Mid officials & Mgrs,16
+Gilead Sciences,2015,White,female,Executive/Senior officials & Mgrs,12
+Gilead Sciences,2015,White,female,Professionals,429
+Gilead Sciences,2015,White,female,Technicians,4
+Gilead Sciences,2015,White,female,Sales workers,254
+Gilead Sciences,2015,White,female,Administrative support,101
+Gilead Sciences,2015,White,female,Craft workers,0
+Gilead Sciences,2015,White,female,operatives,1
+Gilead Sciences,2015,White,female,laborers and helpers,2
+Gilead Sciences,2015,White,female,Service workers,0
+Gilead Sciences,2015,White,female,Totals,1211
+Gilead Sciences,2015,White,female,Previous_totals,1130
+Gilead Sciences,2015,White,female,First/Mid officials & Mgrs,408
+Gilead Sciences,2015,White,male,Executive/Senior officials & Mgrs,37
+Gilead Sciences,2015,White,male,Professionals,433
+Gilead Sciences,2015,White,male,Technicians,15
+Gilead Sciences,2015,White,male,Sales workers,209
+Gilead Sciences,2015,White,male,Administrative support,13
+Gilead Sciences,2015,White,male,Craft workers,0
+Gilead Sciences,2015,White,male,operatives,9
+Gilead Sciences,2015,White,male,laborers and helpers,1
+Gilead Sciences,2015,White,male,Service workers,0
+Gilead Sciences,2015,White,male,Totals,1292
+Gilead Sciences,2015,White,male,Previous_totals,1195
+Gilead Sciences,2015,White,male,First/Mid officials & Mgrs,575
+Gilead Sciences,2015,Overall_totals,,Executive/Senior officials & Mgrs,60
+Gilead Sciences,2015,Overall_totals,,Professionals,2152
+Gilead Sciences,2015,Overall_totals,,Technicians,96
+Gilead Sciences,2015,Overall_totals,,Sales workers,604
+Gilead Sciences,2015,Overall_totals,,Administrative support,288
+Gilead Sciences,2015,Overall_totals,,Craft workers,0
+Gilead Sciences,2015,Overall_totals,,operatives,92
+Gilead Sciences,2015,Overall_totals,,laborers and helpers,11
+Gilead Sciences,2015,Overall_totals,,Service workers,0
+Gilead Sciences,2015,Overall_totals,,Totals,5071
+Gilead Sciences,2015,Overall_totals,,Previous_totals,4504
+Gilead Sciences,2015,Overall_totals,,First/Mid officials & Mgrs,1768
+Splunk,2015,American_Indian_Alaskan_Native,female,Executive/Senior officials & Mgrs,0
+Splunk,2015,American_Indian_Alaskan_Native,female,Professionals,0
+Splunk,2015,American_Indian_Alaskan_Native,female,Technicians,0
+Splunk,2015,American_Indian_Alaskan_Native,female,Sales workers,0
+Splunk,2015,American_Indian_Alaskan_Native,female,Administrative support,0
+Splunk,2015,American_Indian_Alaskan_Native,female,Craft workers,0
+Splunk,2015,American_Indian_Alaskan_Native,female,operatives,0
+Splunk,2015,American_Indian_Alaskan_Native,female,laborers and helpers,0
+Splunk,2015,American_Indian_Alaskan_Native,female,Service workers,0
+Splunk,2015,American_Indian_Alaskan_Native,female,Totals,0
+Splunk,2015,American_Indian_Alaskan_Native,female,Previous_totals,0
+Splunk,2015,American_Indian_Alaskan_Native,female,First/Mid officials & Mgrs,0
+Splunk,2015,American_Indian_Alaskan_Native,male,Executive/Senior officials & Mgrs,0
+Splunk,2015,American_Indian_Alaskan_Native,male,Professionals,0
+Splunk,2015,American_Indian_Alaskan_Native,male,Technicians,0
+Splunk,2015,American_Indian_Alaskan_Native,male,Sales workers,0
+Splunk,2015,American_Indian_Alaskan_Native,male,Administrative support,0
+Splunk,2015,American_Indian_Alaskan_Native,male,Craft workers,0
+Splunk,2015,American_Indian_Alaskan_Native,male,operatives,0
+Splunk,2015,American_Indian_Alaskan_Native,male,laborers and helpers,0
+Splunk,2015,American_Indian_Alaskan_Native,male,Service workers,0
+Splunk,2015,American_Indian_Alaskan_Native,male,Totals,0
+Splunk,2015,American_Indian_Alaskan_Native,male,Previous_totals,1
+Splunk,2015,American_Indian_Alaskan_Native,male,First/Mid officials & Mgrs,0
+Splunk,2015,Asian,female,Executive/Senior officials & Mgrs,1
+Splunk,2015,Asian,female,Professionals,86
+Splunk,2015,Asian,female,Technicians,0
+Splunk,2015,Asian,female,Sales workers,3
+Splunk,2015,Asian,female,Administrative support,6
+Splunk,2015,Asian,female,Craft workers,0
+Splunk,2015,Asian,female,operatives,0
+Splunk,2015,Asian,female,laborers and helpers,0
+Splunk,2015,Asian,female,Service workers,0
+Splunk,2015,Asian,female,Totals,116
+Splunk,2015,Asian,female,Previous_totals,88
+Splunk,2015,Asian,female,First/Mid officials & Mgrs,20
+Splunk,2015,Asian,male,Executive/Senior officials & Mgrs,1
+Splunk,2015,Asian,male,Professionals,191
+Splunk,2015,Asian,male,Technicians,0
+Splunk,2015,Asian,male,Sales workers,3
+Splunk,2015,Asian,male,Administrative support,8
+Splunk,2015,Asian,male,Craft workers,0
+Splunk,2015,Asian,male,operatives,0
+Splunk,2015,Asian,male,laborers and helpers,0
+Splunk,2015,Asian,male,Service workers,0
+Splunk,2015,Asian,male,Totals,241
+Splunk,2015,Asian,male,Previous_totals,168
+Splunk,2015,Asian,male,First/Mid officials & Mgrs,38
+Splunk,2015,Black_or_African_American,female,Executive/Senior officials & Mgrs,0
+Splunk,2015,Black_or_African_American,female,Professionals,4
+Splunk,2015,Black_or_African_American,female,Technicians,0
+Splunk,2015,Black_or_African_American,female,Sales workers,3
+Splunk,2015,Black_or_African_American,female,Administrative support,1
+Splunk,2015,Black_or_African_American,female,Craft workers,0
+Splunk,2015,Black_or_African_American,female,operatives,0
+Splunk,2015,Black_or_African_American,female,laborers and helpers,0
+Splunk,2015,Black_or_African_American,female,Service workers,0
+Splunk,2015,Black_or_African_American,female,Totals,8
+Splunk,2015,Black_or_African_American,female,Previous_totals,8
+Splunk,2015,Black_or_African_American,female,First/Mid officials & Mgrs,0
+Splunk,2015,Black_or_African_American,male,Executive/Senior officials & Mgrs,0
+Splunk,2015,Black_or_African_American,male,Professionals,9
+Splunk,2015,Black_or_African_American,male,Technicians,0
+Splunk,2015,Black_or_African_American,male,Sales workers,3
+Splunk,2015,Black_or_African_American,male,Administrative support,1
+Splunk,2015,Black_or_African_American,male,Craft workers,0
+Splunk,2015,Black_or_African_American,male,operatives,0
+Splunk,2015,Black_or_African_American,male,laborers and helpers,0
+Splunk,2015,Black_or_African_American,male,Service workers,0
+Splunk,2015,Black_or_African_American,male,Totals,18
+Splunk,2015,Black_or_African_American,male,Previous_totals,14
+Splunk,2015,Black_or_African_American,male,First/Mid officials & Mgrs,5
+Splunk,2015,Latino,female,Executive/Senior officials & Mgrs,0
+Splunk,2015,Latino,female,Professionals,11
+Splunk,2015,Latino,female,Technicians,0
+Splunk,2015,Latino,female,Sales workers,6
+Splunk,2015,Latino,female,Administrative support,0
+Splunk,2015,Latino,female,Craft workers,0
+Splunk,2015,Latino,female,operatives,0
+Splunk,2015,Latino,female,laborers and helpers,0
+Splunk,2015,Latino,female,Service workers,0
+Splunk,2015,Latino,female,Totals,19
+Splunk,2015,Latino,female,Previous_totals,17
+Splunk,2015,Latino,female,First/Mid officials & Mgrs,2
+Splunk,2015,Latino,male,Executive/Senior officials & Mgrs,0
+Splunk,2015,Latino,male,Professionals,17
+Splunk,2015,Latino,male,Technicians,0
+Splunk,2015,Latino,male,Sales workers,5
+Splunk,2015,Latino,male,Administrative support,1
+Splunk,2015,Latino,male,Craft workers,0
+Splunk,2015,Latino,male,operatives,0
+Splunk,2015,Latino,male,laborers and helpers,0
+Splunk,2015,Latino,male,Service workers,0
+Splunk,2015,Latino,male,Totals,28
+Splunk,2015,Latino,male,Previous_totals,19
+Splunk,2015,Latino,male,First/Mid officials & Mgrs,5
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,Executive/Senior officials & Mgrs,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,Professionals,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,Technicians,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,Sales workers,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,Administrative support,1
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,Craft workers,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,operatives,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,laborers and helpers,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,Service workers,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,Totals,1
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,Previous_totals,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,female,First/Mid officials & Mgrs,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,Executive/Senior officials & Mgrs,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,Professionals,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,Technicians,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,Sales workers,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,Administrative support,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,Craft workers,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,operatives,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,laborers and helpers,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,Service workers,0
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,Totals,1
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,Previous_totals,1
+Splunk,2015,Native_Hawaiian_or_Pacific_Islander,male,First/Mid officials & Mgrs,1
+Splunk,2015,Two_or_more_races,female,Executive/Senior officials & Mgrs,0
+Splunk,2015,Two_or_more_races,female,Professionals,5
+Splunk,2015,Two_or_more_races,female,Technicians,0
+Splunk,2015,Two_or_more_races,female,Sales workers,1
+Splunk,2015,Two_or_more_races,female,Administrative support,1
+Splunk,2015,Two_or_more_races,female,Craft workers,0
+Splunk,2015,Two_or_more_races,female,operatives,0
+Splunk,2015,Two_or_more_races,female,laborers and helpers,0
+Splunk,2015,Two_or_more_races,female,Service workers,0
+Splunk,2015,Two_or_more_races,female,Totals,10
+Splunk,2015,Two_or_more_races,female,Previous_totals,8
+Splunk,2015,Two_or_more_races,female,First/Mid officials & Mgrs,3
+Splunk,2015,Two_or_more_races,male,Executive/Senior officials & Mgrs,0
+Splunk,2015,Two_or_more_races,male,Professionals,10
+Splunk,2015,Two_or_more_races,male,Technicians,0
+Splunk,2015,Two_or_more_races,male,Sales workers,2
+Splunk,2015,Two_or_more_races,male,Administrative support,0
+Splunk,2015,Two_or_more_races,male,Craft workers,0
+Splunk,2015,Two_or_more_races,male,operatives,0
+Splunk,2015,Two_or_more_races,male,laborers and helpers,0
+Splunk,2015,Two_or_more_races,male,Service workers,0
+Splunk,2015,Two_or_more_races,male,Totals,14
+Splunk,2015,Two_or_more_races,male,Previous_totals,10
+Splunk,2015,Two_or_more_races,male,First/Mid officials & Mgrs,2
+Splunk,2015,White,female,Executive/Senior officials & Mgrs,0
+Splunk,2015,White,female,Professionals,103
+Splunk,2015,White,female,Technicians,0
+Splunk,2015,White,female,Sales workers,55
+Splunk,2015,White,female,Administrative support,11
+Splunk,2015,White,female,Craft workers,0
+Splunk,2015,White,female,operatives,0
+Splunk,2015,White,female,laborers and helpers,0
+Splunk,2015,White,female,Service workers,0
+Splunk,2015,White,female,Totals,208
+Splunk,2015,White,female,Previous_totals,157
+Splunk,2015,White,female,First/Mid officials & Mgrs,39
+Splunk,2015,White,male,Executive/Senior officials & Mgrs,5
+Splunk,2015,White,male,Professionals,380
+Splunk,2015,White,male,Technicians,0
+Splunk,2015,White,male,Sales workers,191
+Splunk,2015,White,male,Administrative support,7
+Splunk,2015,White,male,Craft workers,0
+Splunk,2015,White,male,operatives,0
+Splunk,2015,White,male,laborers and helpers,0
+Splunk,2015,White,male,Service workers,0
+Splunk,2015,White,male,Totals,730
+Splunk,2015,White,male,Previous_totals,529
+Splunk,2015,White,male,First/Mid officials & Mgrs,147
+Splunk,2015,Overall_totals,,Executive/Senior officials & Mgrs,7
+Splunk,2015,Overall_totals,,Professionals,816
+Splunk,2015,Overall_totals,,Technicians,0
+Splunk,2015,Overall_totals,,Sales workers,272
+Splunk,2015,Overall_totals,,Administrative support,37
+Splunk,2015,Overall_totals,,Craft workers,0
+Splunk,2015,Overall_totals,,operatives,0
+Splunk,2015,Overall_totals,,laborers and helpers,0
+Splunk,2015,Overall_totals,,Service workers,0
+Splunk,2015,Overall_totals,,Totals,1394
+Splunk,2015,Overall_totals,,Previous_totals,1020
+Splunk,2015,Overall_totals,,First/Mid officials & Mgrs,262
